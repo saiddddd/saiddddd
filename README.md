@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Al or Said [@saiddddd]
-- 👀 I’m interested in Machine Learning and Psychology
+
 
 
 <!---
